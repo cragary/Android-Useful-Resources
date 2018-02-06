@@ -1,7 +1,7 @@
 # Android-Useful-Resources
 A set of resources for fostering your android developement skills
 ## Github Links
-*[Android Architeccture](https://github.com/googlesamples/android-architecture)
+*([Android Architeccture](https://github.com/googlesamples/android-architecture))
 *[Awesome Android Complete Reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
 *[A curated list of awesome Android packages and resources.](https://github.com/JStumpp/awesome-android)
 *[Curated List of Android UI Elements](https://github.com/wasabeef/awesome-android-ui)
