@@ -1,5 +1,5 @@
 # Android-Useful-Resources
-A set of resources for fostering your android developement skills
+A set of resources for fostering your android developement skills. This is gold.. Do not neglect none of these links.
 ## Github Links
 [Android Architecture](https://github.com/googlesamples/android-architecture)
 
