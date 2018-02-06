@@ -9,7 +9,7 @@ A set of resources for fostering your android developement skills
 
 [Curated List of Android UI Elements](https://github.com/wasabeef/awesome-android-ui)
 
-##Google Links
+## Google Links
 [Android Official Documentation](https://developer.android.com/index.html)
 
 [Android Developers Blog](https://android-developers.googleblog.com)
@@ -18,7 +18,7 @@ A set of resources for fostering your android developement skills
 
 [Material Components for Android](https://material.io/components/android/)
 
-##Other Links
+## Other Links
 [Open Source Android Apps for upgrading your skills](https://blog.mindorks.com/android-amazing-open-source-apps-e44f520593cc)
 
 [AppBrain](http://www.appbrain.com)
